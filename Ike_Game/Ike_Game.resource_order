@@ -105,6 +105,7 @@
     {"name":"spr_game_logo","order":2,"path":"sprites/spr_game_logo/spr_game_logo.yy",},
     {"name":"spr_end_gate_particles","order":2,"path":"sprites/spr_end_gate_particles/spr_end_gate_particles.yy",},
     {"name":"snd_health_pickup_01","order":8,"path":"sounds/snd_health_pickup_01/snd_health_pickup_01.yy",},
+    {"name":"Sprite87","order":10,"path":"sprites/Sprite87/Sprite87.yy",},
     {"name":"snd_dirt_block_hit_02","order":4,"path":"sounds/snd_dirt_block_hit_02/snd_dirt_block_hit_02.yy",},
     {"name":"obj_touch_button_left","order":2,"path":"objects/obj_touch_button_left/obj_touch_button_left.yy",},
     {"name":"snd_box_hit","order":10,"path":"sounds/snd_box_hit/snd_box_hit.yy",},
