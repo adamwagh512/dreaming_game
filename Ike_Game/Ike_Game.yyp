@@ -202,7 +202,7 @@
     {"id":{"name":"spr_game_logo","path":"sprites/spr_game_logo/spr_game_logo.yy",},},
     {"id":{"name":"spr_end_gate_particles","path":"sprites/spr_end_gate_particles/spr_end_gate_particles.yy",},},
     {"id":{"name":"snd_health_pickup_01","path":"sounds/snd_health_pickup_01/snd_health_pickup_01.yy",},},
-    {"id":{"name":"Sprite87","path":"sprites/Sprite87/Sprite87.yy",},},
+    {"id":{"name":"smiles","path":"sprites/smiles/smiles.yy",},},
     {"id":{"name":"snd_dirt_block_hit_02","path":"sounds/snd_dirt_block_hit_02/snd_dirt_block_hit_02.yy",},},
     {"id":{"name":"obj_touch_button_left","path":"objects/obj_touch_button_left/obj_touch_button_left.yy",},},
     {"id":{"name":"obj_end_gate","path":"objects/obj_end_gate/obj_end_gate.yy",},},
