@@ -169,6 +169,7 @@
     {"id":{"name":"spr_end_gate","path":"sprites/spr_end_gate/spr_end_gate.yy",},},
     {"id":{"name":"spr_mushroom_1","path":"sprites/spr_mushroom_1/spr_mushroom_1.yy",},},
     {"id":{"name":"obj_block_brick","path":"objects/obj_block_brick/obj_block_brick.yy",},},
+    {"id":{"name":"Sprite88","path":"sprites/Sprite88/Sprite88.yy",},},
     {"id":{"name":"spr_block_brick","path":"sprites/spr_block_brick/spr_block_brick.yy",},},
     {"id":{"name":"spr_dust_effect","path":"sprites/spr_dust_effect/spr_dust_effect.yy",},},
     {"id":{"name":"spr_block_brick_destroy","path":"sprites/spr_block_brick_destroy/spr_block_brick_destroy.yy",},},

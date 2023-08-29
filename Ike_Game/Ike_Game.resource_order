@@ -83,6 +83,7 @@
     {"name":"obj_effect_parent","order":1,"path":"objects/obj_effect_parent/obj_effect_parent.yy",},
     {"name":"spr_mushroom_1","order":6,"path":"sprites/spr_mushroom_1/spr_mushroom_1.yy",},
     {"name":"obj_block_brick","order":1,"path":"objects/obj_block_brick/obj_block_brick.yy",},
+    {"name":"Sprite88","order":2,"path":"sprites/Sprite88/Sprite88.yy",},
     {"name":"spr_block_brick_destroy","order":4,"path":"sprites/spr_block_brick_destroy/spr_block_brick_destroy.yy",},
     {"name":"spr_backtrees_2","order":2,"path":"sprites/spr_backtrees_2/spr_backtrees_2.yy",},
     {"name":"obj_placeholder_message","order":4,"path":"objects/obj_placeholder_message/obj_placeholder_message.yy",},
