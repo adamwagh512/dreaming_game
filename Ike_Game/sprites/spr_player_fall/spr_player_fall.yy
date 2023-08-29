@@ -7,7 +7,7 @@
   "bbox_right": 125,
   "bbox_top": 32,
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 4,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"86de2616-cb6e-4a28-84b7-cab219e071e7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 9,
+  "origin": 4,
   "parent": {
     "name": "Player",
     "path": "folders/Sprites/Player.yy",
@@ -59,8 +59,8 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 85,
-    "yorigin": 105,
+    "xorigin": 77,
+    "yorigin": 77,
   },
   "swatchColours": [
     4278190335,
